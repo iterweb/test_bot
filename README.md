@@ -4,13 +4,13 @@
 В админке на Django должен выводиться список юзеров бота в виде таблички: время первого запуска, ID, @username, имя, фамилия. Кроме этого, должна быть возможность редактирования текстов и кнопок бота (можно использовать django-preferences или любой другой удобный инструмент). По возможности, админку нужно сделать максимально красивой, убрать лишние ссылки, кнопки, разделы и т.д.
 
 ## Скриншоты
-![alt tag](https://github.com/pro100git/test_bot/blob/master/screenshots/coin_bot.png)
+![alt tag](https://github.com/iterweb/test_bot/blob/master/screenshots/coin_bot.png)
 
-![alt tag](https://github.com/pro100git/test_bot/blob/master/screenshots/profiles.png)
+![alt tag](https://github.com/iterweb/test_bot/blob/master/screenshots/profiles.png)
 
-![alt tag](https://github.com/pro100git/test_bot/blob/master/screenshots/bot_settings.png)
+![alt tag](https://github.com/iterweb/test_bot/blob/master/screenshots/bot_settings.png)
 
-![alt tag](https://github.com/pro100git/test_bot/blob/master/screenshots/bot_settings_1.png)
+![alt tag](https://github.com/iterweb/test_bot/blob/master/screenshots/bot_settings_1.png)
 
 ## Требования
 * [python 3.7+](https://www.python.org/)
