@@ -17,7 +17,7 @@
 * ```pip install -r requirements.txt```
 ## Как пользоваться
 * Создать Телеграм бота и записать его токен в файле ```settings.py``` на 139 строке
-* Зарегистрироваться на сайте [coinmarketcap](https://coinmarketcap.com/api/v1/) для получения API KEY, полученый API KEY записать в файл ```settings.py``` на 138 строке
+* Зарегистрироваться на сайте `https://coinmarketcap.com/api/v1/` для получения API KEY, полученый API KEY записать в файл ```settings.py``` на 138 строке
 * Выполнить миграции ```python manage.py migrate```
 * Создать супер пользователя (для админки) ```python manage.py createsuperuser```
 * Запуск сервера ```python manage.py runserver```
